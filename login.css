@@ -1,0 +1,20 @@
+.form{
+    background-color: gray;
+    height: 100vh;
+}
+.login{background-color: goldenrod;
+background-size:cover;
+flex-direction: column;
+float: left;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;gap: 300px;
+
+position: absolute;
+margin-left: auto;
+align-items: flex-start;
+margin-top: 200px;
+margin-left: 200px;
+height: 20vh;
+}

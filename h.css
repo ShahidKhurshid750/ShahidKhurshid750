@@ -1,0 +1,39 @@
+
+html,body{height: 100%;
+margin: 0;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 400;
+line-height: 1.8em;
+color: rgb(14, 12, 13);
+}
+.first{background-image: url(bamsi.jpg
+    );
+    background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 100vh;
+
+
+
+
+}
+.first,.first2,.first3{position: relative;
+    
+    
+    
+
+
+
+}
+.textp{position: absolute;
+top: 50%;
+width: 50%;
+font-size: 40px;
+letter-spacing: 8px;
+text-transform: uppercase;
+text-align: center;
+background-color: rgb(40, 27, 160);
+padding: 20px;
+margin: 40px;
+}

@@ -1,0 +1,30 @@
+.computer{border: 2px solid green;
+background-color: grey;text-transform: capitalize;
+color: blanchedalmond;
+font-weight: bold;
+text-justify: newspaper;
+text-decoration: wavy;
+text-shadow: 20dvh;
+text-align: center;
+text-size-adjust: 200px;
+padding: 20px;
+width: 500px;
+align-items: center;
+margin-right: 200px;
+}
+h1{color: green;
+font-size: 50px;
+}
+.keyboard{background-color: grey;text-transform: capitalize;
+    color: blanchedalmond;
+    font-weight: bold;
+    text-justify: newspaper;
+    text-decoration: wavy;
+    text-shadow: 20dvh;
+    text-align: center;
+    text-size-adjust: 200px;
+    padding: 20px;
+border: 2px solid red;
+margin-top: 50px;
+width:500px;}
+h1:hover{color: brown;}

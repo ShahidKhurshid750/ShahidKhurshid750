@@ -1,0 +1,116 @@
+.head{background-color: #8a2be2;
+display: flex;height:auto;
+width:auto;
+border: 2px solid black;
+border-radius: 20px;}
+.navbar ul{display: flex;
+margin-left: 20px; gap: 40px;
+font-size: xx-large;}
+.navbar ul li{margin-right: 30px; display: inline;
+display: block;}
+.navbar ul li a{ text-decoration: none; transition: all;
+color:rgb(18, 75, 48);
+font-weight:  brown;
+margin-top: 100px;
+align-items: }
+
+
+.btn{border: 2px
+border-radius:5px
+height:50px;
+width: 80px;
+font-weight: bold;
+font-size: large;
+color: darkcyan;
+transition: all;}
+.btn:hover{background-color:grey ;
+transition: 4s;}
+#search{border-radius: 15px; border: 2px solid green; text-align: center; font-size:20px;}
+.navbar ul li a:hover{
+color:rgb(37, 202, 59); transition: 7s;background-color: aquamarine; border: 3px white ; border-radius: 5px; }
+h2{border: px solid green;
+text-align: center;
+color: brown;
+transform-style: preserve-3d;
+caption-side: top;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: uppercase;}
+.form{border: 2px solid black;;
+width: 150px;height: 150px;
+display: flex;
+float: left;
+margin: 10px;
+background-color: aquamarine;
+transition: all; align-items: center; font-size: larger;
+
+background-image:url(girl.jpg);
+background-size: cover;}
+.form:hover{ background-color: #8a2be2; transition: 4s;
+;
+border-radius: 50%;}
+.form1{border: 2px solid black;
+    width: 150px;height: 150px;
+    display: flex;
+    float: left;
+    margin: 10px;
+    background-color: aquamarine;
+    transition: all; align-items: center; font-size: larger;
+    
+    background-image:url(bamsi.jpg);
+    background-size: cover;}
+    .form1:hover{ background-color: #8a2be2; transition: 4s;
+    ;
+    border-radius: 50%;}
+    .form2{border: 2px solid black;
+        width: 150px;height: 150px;
+        display: flex;
+        float: left;
+        margin: 10px;
+        background-color: aquamarine;
+        transition: all; align-items: center; font-size: larger;
+        
+        background-image:url(khatun.jpg);
+        background-size: cover;}
+        .form2:hover{ background-color: #8a2be2; transition: 4s;
+        ;
+    
+        border-radius: 50%;}
+        .form3{border: 2px solid black;
+            width: 150px;height: 150px;
+            display: flex;
+            float: left;
+            margin: 10px;
+            background-color: aquamarine;
+            transition: all; align-items: center; font-size: larger;
+            
+            background-image:url(alp.jpg);
+            background-size: cover;}
+            .form3:hover{ background-color: #8a2be2; transition: 4s;
+            ;
+            border-radius: 50%;}
+            .form4{border: 2px solid black;
+                width: 150px;height: 150px;
+                display: flex;
+                float: left;
+                margin: 10px;
+                background-color: aquamarine;
+                transition: all; align-items: center; font-size: larger;
+                
+                background-image:url(heran.jpg);
+                background-size: cover;}
+                .form4:hover{ background-color: #8a2be2; transition: 4s;
+                ;
+                border-radius: 50%;}
+                .form5{border: 2px solid black;
+                    width: 150px;height: 150px;
+                    display: flex;
+                    float: left;
+                    margin: 10px;
+                    background-color: aquamarine;
+                    transition: all; align-items: center; font-size: larger;
+                    
+                    background-image:url(poet.jpg);
+                    background-size: cover;}
+                    .form5:hover{ background-color: #8a2be2; transition: 4s;
+                    ;
+                    border-radius: 50%;}
